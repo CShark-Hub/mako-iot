@@ -1,6 +1,6 @@
 ---
 title: Getting started with MAKO IoT
-date: 2023-11-29
+date: 2023-10-09
 categories: [How To..., get started]
 tags: [how-to]     # TAG names should always be lowercase
 author: Bart

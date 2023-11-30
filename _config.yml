@@ -16,7 +16,7 @@ timezone:
 
 title: MAKO IoT # the main title
 
-tagline: Makes IoT easy # it will display as the sub-title
+tagline: bringing best practices to IoT # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
 
@@ -33,10 +33,11 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: MAKO IoT
+  name: MAKO IoT by CSHARK
   email: contact@mako-iot.io # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://cshark.com
     # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/cshark-hub/mako-iot.home # change to your github homepage
     # Uncomment below to add more social links
