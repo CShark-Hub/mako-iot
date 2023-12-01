@@ -23,8 +23,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-      - run: bundle exec rake          
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically        
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
